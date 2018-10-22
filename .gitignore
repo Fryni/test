@@ -36,7 +36,7 @@ Generated\ Files/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
-# NUNIT
+# NUNI
 *.VisualState.xml
 TestResult.xml
 
